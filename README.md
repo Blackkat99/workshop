@@ -1,5 +1,5 @@
 # workshop
-man
+1.man
 Équivalent Windows : help
 Signification : manual
 Affiche les pages du manuel système.
@@ -11,7 +11,7 @@ man exports
 décrit le contenu et la syntaxe du fichier /etc/exports pour les partages NFS
 'q' pour quitter.
 Voir aussi la page man
-ls
+2.ls
 Équivalent Windows : dir
 Signification : list
 Permet de lister un répertoire
@@ -36,7 +36,7 @@ par défaut la sortie n'est pas en couleur (il faut utiliser l'option --color po
 les caractères spéciaux tels que les espaces dans les noms des fichiers et dossiers sont précédés d'un caractère \ (backslash).
 La commande « ls -C -b » produira une sortie identique à la commande dir employée sans options.
 
-cd
+3.cd
 Équivalent Windows : cd
 Signification : change directory
 Permet de se promener dans les répertoires
@@ -51,7 +51,7 @@ cd /
 permet de remonter à la racine de l'ensemble du système de fichiers
 cd /usr/bin/ ou usr/bin
 se place dans le répertoire /usr/bin/
-mv
+4.mv
 Équivalent Windows : move / ren
 Signification : move
 Permet de déplacer ou renommer des fichiers et des répertoires
@@ -66,7 +66,7 @@ mv unRep/monFichier .
 Déplace le fichier monFichier du répertoire unRep là où on se trouve
 mv unRep monRep
 Renomme unRep en monRep
-cp
+5.cp
 Équivalent Windows : copy / xcopy
 Signification : copy
 Permet de copier des fichiers ou des répertoires
